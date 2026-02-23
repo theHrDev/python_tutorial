@@ -1,12 +1,14 @@
-# int(age)
-# print(type(age))
-# print(age + 12)
+age = "12"
+
+int(age)
+print(type(age))
+print(age + 12)
 
 int(),str(),float(),bool() 
 
-# age = int(age) #converting to an integer using int
-# print(age + 12)
-# print(type(age))
+age = int(age) #converting to an integer using int
+print(age + 12)
+print(type(age))
 
 # CONCATENATION - Addition of two strings together
 age = "12"
