@@ -18,7 +18,7 @@ print(f"You are {age} years old")
 
 
 # Assignment
-first_num
-second_num
+# first_num
+# second_num
 
-the sum of the two number
+# the sum of the two number
